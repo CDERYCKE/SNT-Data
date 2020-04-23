@@ -1,3 +1,3 @@
 # SNT-Data
  
-Notebooks Jupyter pour la partie cartographie de SNT
+Notebooks Jupyter pour la partie données structurées de SNT
